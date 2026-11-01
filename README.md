@@ -39,3 +39,4 @@ This project is a full-stack Agri-Tech management platform built with the MERN s
 - OpenWeather API integration is optional and works when `OPENWEATHER_API_KEY` is available.
 # Agri-tech_evya
 # Agri-tech_evya
+# Agri-tech_evya
