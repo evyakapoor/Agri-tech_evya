@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "farms": "Farms",
+    "crops": "Crops",
+    "soil": "Soil Health",
+    "weather": "Weather",
+    "market": "Marketplace",
+    "login": "Login",
+    "logout": "Logout",
+    "register": "Register"
+  },
+  "home": {
+    "title": "Smarter farming for resilient harvests",
+    "subtitle": "Track every field, crop, and soil condition in one intelligent dashboard built for modern agriculture.",
+    "primaryCta": "Go to dashboard",
+    "secondaryCta": "Create account",
+    "metricsTitle": "Built for productivity and climate resilience"
+  },
+  "auth": {
+    "welcome": "Welcome back",
+    "registerTitle": "Create your farm account",
+    "loginTitle": "Sign in to your account",
+    "name": "Full Name",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Continue",
+    "toggle": "Switch to register",
+    "loginPrompt": "Already have an account?",
+    "registerPrompt": "Need an account?"
+  },
+  "dashboard": {
+    "title": "Farmer dashboard",
+    "totalFarms": "Total Farms",
+    "activeCrops": "Active Crops",
+    "harvests": "Upcoming Harvests",
+    "weather": "Weather Summary",
+    "alerts": "Active Alerts",
+    "soil": "Soil Health"
+  }
+}

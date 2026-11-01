@@ -1,0 +1,44 @@
+:root {
+  font-family: "Segoe UI", sans-serif;
+  line-height: 1.5;
+  color: #1b2e1d;
+  background: #f6f9f3;
+}
+
+body {
+  margin: 0;
+  background: #f2f7ee;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, #1d5f3d, #3c8d5d 60%, #67b66d);
+  min-height: 480px;
+  display: flex;
+  align-items: center;
+}
+
+.page-shell {
+  min-height: calc(100vh - 120px);
+}
+
+.card {
+  border-radius: 18px;
+}
+
+.btn-success {
+  background: #198754;
+  border-color: #198754;
+}
+
+.navbar-brand {
+  letter-spacing: 0.05em;
+}
+
+.form-control,
+.form-select {
+  border-radius: 12px;
+}
+
+.table thead th {
+  background: #eef8ef;
+}
