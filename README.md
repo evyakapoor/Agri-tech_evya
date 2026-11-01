@@ -38,3 +38,4 @@ This project is a full-stack Agri-Tech management platform built with the MERN s
 - The app uses MongoDB if a `MONGODB_URI` is provided; otherwise it falls back to an in-memory MongoDB instance for local testing.
 - OpenWeather API integration is optional and works when `OPENWEATHER_API_KEY` is available.
 # Agri-tech_evya
+# Agri-tech_evya
